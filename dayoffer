@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "image_url": "https://i.ibb.co/TqgJmWV/bearhawk.jpg",
+        "description": "Sale 50% and 50% of price for bonus in app. The Bearhawk is a 4-place built design with generous proportions and superior performance."
+    },
+    {
+        "id": 2,
+        "image_url": "https://i.ibb.co/FwRzRfg/ERacer-2015.jpg",
+        "description": "Sale 30% and 50% of price for bonus in app.The ERacer is a high speed, cross country aircraft designed around the proven aerodynamics of the Rutan Long EZ. It is unique in that it can utilize multiple power plants."
+    },
+    {
+        "id": 3,
+        "image_url": "https://i.ibb.co/d520wf4/n500flybaby.jpg",
+        "description": "Sale 25% and 50% of price for bonus in app. This plane is a structurally simple and easy-to-fly airplane designed to the requirements of the Experimental Aircraft Association for home construction and storage in a space 7? x 8? x 20?, which is equivalent to the standard home garage."
+    }
+]
